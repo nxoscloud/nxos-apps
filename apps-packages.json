@@ -1,0 +1,5 @@
+{
+  "apps": {
+    "test": "https://api.github.com/repos/nxoscloud/nxos-apps"
+  }
+}
